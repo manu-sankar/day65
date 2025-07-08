@@ -1,0 +1,6 @@
+C:/Users/Administrator/Desktop/cppApps/cpp.Training/Class Work/day65/out/build/x64-debug/CMakeFiles/mylib.dir
+C:/Users/Administrator/Desktop/cppApps/cpp.Training/Class Work/day65/out/build/x64-debug/CMakeFiles/MyApp.dir
+C:/Users/Administrator/Desktop/cppApps/cpp.Training/Class Work/day65/out/build/x64-debug/CMakeFiles/test_add01.dir
+C:/Users/Administrator/Desktop/cppApps/cpp.Training/Class Work/day65/out/build/x64-debug/CMakeFiles/test.dir
+C:/Users/Administrator/Desktop/cppApps/cpp.Training/Class Work/day65/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/Administrator/Desktop/cppApps/cpp.Training/Class Work/day65/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
